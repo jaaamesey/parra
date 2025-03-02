@@ -1,5 +1,5 @@
 {
-  "name": "ez-threads",
+  "name": "parra",
   "version": "0.0.1",
   "description": "Helpers for easy, type safe, and platform agnostic parallelism in JavaScript",
   "main": "dist/",
