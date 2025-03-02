@@ -1,0 +1,22 @@
+{
+  "name": "ez-threads",
+  "version": "0.0.1",
+  "description": "Helpers for easy, type safe, and platform agnostic parallelism in JavaScript",
+  "main": "dist/",
+  "types": "dist/",
+  "scripts": {
+    "test": "bun test",
+    "build": "tsup"
+  },
+  "author": "James Karlsson",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "bun": "^1.2.4",
+    "ts-node": "^10.9.2",
+    "tsup": "^8.3.6",
+    "typescript": "^5.7.3",
+    "run-with-worker": "^1.0.4"
+  },
+  "dependencies": {}
+}
